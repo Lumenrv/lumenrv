@@ -8,13 +8,17 @@
 ### Connect with me:
 
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" />](https://twitter.com/IlliaPavlenko#gh-light-mode-only)
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" />](./img/twitter-dark.svg)](https://twitter.com/IlliaPavlenko#gh-dark-mode-only)
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" />](https://twitter.com/IlliaPavlenko#gh-dark-mode-only)
 &nbsp;&nbsp;
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" />](./img/linkedin-light.svg)](https://www.linkedin.com/in/illia-pavlenko-42313a178/#gh-light-mode-only)
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" />](https://www.linkedin.com/in/illia-pavlenko-42313a178/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg" />](https://www.instagram.com/illai_13/#gh-light-mode-only)
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg" />](https://www.instagram.com/illai_13/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/telegram.svg" />](https://t.me/lumenrv#gh-light-mode-only)
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/telegram.svg" />](https://t.me/lumenrv#gh-dark-mode-only)
+
 
 ### Languages and Tools:
 
