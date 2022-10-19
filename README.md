@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-[https://github.com/gauravghongde/social-icons/blob/master/SVG/Black/Twitter_black.svg](https://twitter.com/IlliaPavlenko#gh-light-mode-only)
-[https://github.com/gauravghongde/social-icons/blob/master/SVG/White/Twitter_white.svg](https://twitter.com/IlliaPavlenko#gh-dark-mode-only)
+[![https://github.com/gauravghongde/social-icons/blob/master/SVG/Black/Twitter_black.svg](https://twitter.com/IlliaPavlenko#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/IlliaPavlenko#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/illia-pavlenko-42313a178/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/illia-pavlenko-42313a178/#gh-dark-mode-only)
