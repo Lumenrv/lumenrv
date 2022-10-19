@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Lumenrv&color=green)
 
-## Hi there, I'm Illia - QA AUTOMATION specialist
+## Hi there, I'm Illia - a QA AUTOMATION specialist!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m open for a new projects
