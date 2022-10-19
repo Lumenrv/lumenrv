@@ -1,6 +1,4 @@
-### Hi there, I'm Illia - QA AUTOMATION
-
-## I'm a Husband, Father, Developer, and Teacher!!
+## Hi there, I'm Illia - QA AUTOMATION
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m open for a new projects
