@@ -9,7 +9,6 @@
 
 ### Connect with me:
 
-&nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/IlliaPavlenko#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/IlliaPavlenko#gh-dark-mode-only)
 &nbsp;&nbsp;
