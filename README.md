@@ -16,6 +16,9 @@
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg" />](https://www.instagram.com/illai_13/#gh-light-mode-only)
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg" />](https://www.instagram.com/illai_13/#gh-dark-mode-only)
 &nbsp;&nbsp;
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/facebook.svg" />](https://www.facebook.com/pavlenkoillai#gh-light-mode-only)
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/facebook.svg" />](https://www.facebook.com/pavlenkoillai#gh-dark-mode-only)
+&nbsp;&nbsp;
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" />](https://twitter.com/IlliaPavlenko#gh-light-mode-only)
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" />](https://twitter.com/IlliaPavlenko#gh-dark-mode-only)
 
@@ -26,24 +29,32 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" >
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/github.svg" style="padding-right:10px;" >
+<img align="left" alt="WebdriverIO" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/webdriverio.svg" style="padding-right:10px;" >
+<img align="left" alt="Playwright" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/playywright.svg" style="padding-right:10px;" >
+<img align="left" alt="Cypress" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/cypress.svg" style="padding-right:10px;" >
+<img align="left" alt="Cucumber" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/cucumber.svg" style="padding-right:10px;" >
+<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/docker.svg" style="padding-right:10px;" >
+<img align="left" alt="dotnet" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/dotnet.svg" style="padding-right:10px;" >
+<img align="left" alt="Postman" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/postman.svg" style="padding-right:10px;" >
+<img align="left" alt="GitHubActions" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/githubactions.svg" style="padding-right:10px;" >
 
 <br />
 <br />
 
 ---
 
-<details>
+<!-- <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
-<!--START_SECTION:activity-->
+START_SECTION:activity
 1. 🎉 Merged PR [#120](https://github.com/codeSTACKr/minter-dapp/pull/120) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
 2. 🗣 Commented on [#120](https://github.com/codeSTACKr/minter-dapp/issues/120) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
 3. ❌ Closed PR [#191](https://github.com/codeSTACKr/create-10k-nft-collection/pull/191) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
 4. 🗣 Commented on [#191](https://github.com/codeSTACKr/create-10k-nft-collection/issues/191) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
 5. 🎉 Merged PR [#204](https://github.com/codeSTACKr/create-10k-nft-collection/pull/204) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-<!--END_SECTION:activity-->
+END_SECTION:activity
 
-</details>
+</details> -->
 
 <details>
   <summary>:zap: GitHub Stats</summary>
