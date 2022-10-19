@@ -30,7 +30,7 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" >
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/github.svg" style="padding-right:10px;" >
 <img align="left" alt="WebdriverIO" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/webdriverio.svg" style="padding-right:10px;" >
-<img align="left" alt="Playwright" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/playywright.svg" style="padding-right:10px;" >
+<img align="left" alt="Playwright" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/playwright.svg" style="padding-right:10px;" >
 <img align="left" alt="Cypress" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/cypress.svg" style="padding-right:10px;" >
 <img align="left" alt="Cucumber" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/cucumber.svg" style="padding-right:10px;" >
 <img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/docker.svg" style="padding-right:10px;" >
