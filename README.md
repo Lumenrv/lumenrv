@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[![https://github.com/gauravghongde/social-icons/blob/master/SVG/Black/Twitter_black.svg](https://twitter.com/IlliaPavlenko#gh-light-mode-only)
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" />](https://twitter.com/IlliaPavlenko#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/IlliaPavlenko#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/illia-pavlenko-42313a178/#gh-light-mode-only)
