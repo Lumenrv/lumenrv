@@ -1,9 +1,12 @@
-## Hi there, I'm Illia - QA AUTOMATION
+![](https://komarev.com/ghpvc/?username=Lumenrv&color=green)
+
+## Hi there, I'm Illia - QA AUTOMATION specialist
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m open for a new projects
-- 🥅 2022 Goals: Learn more QA automation
+- 🥅 2022 Goals: STUDY STUDY STUDY
 - ⚡ Fun fact: I got married recently
+
 
 ### Connect with me:
 
