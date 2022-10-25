@@ -10,17 +10,17 @@
 
 ### Connect with me:
 
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/telegram.svg" />](https://t.me/lumenrv#gh-light-mode-only)
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/telegram.svg" />](https://t.me/lumenrv#gh-dark-mode-only)
+[<img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />](https://t.me/lumenrv#gh-light-mode-only)
+[<img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />](https://t.me/lumenrv#gh-dark-mode-only)
 &nbsp;&nbsp;
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" />](https://www.linkedin.com/in/illia-pavlenko-42313a178/#gh-light-mode-only)
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" />](https://www.linkedin.com/in/illia-pavlenko-42313a178/#gh-dark-mode-only)
+[<img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/1377/1377213.png" />](https://www.linkedin.com/in/illia-pavlenko-42313a178/#gh-light-mode-only)
+[<img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/1377/1377213.png" />](https://www.linkedin.com/in/illia-pavlenko-42313a178/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg" />](https://www.instagram.com/illai_13/#gh-light-mode-only)
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg" />](https://www.instagram.com/illai_13/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/facebook.svg" />](https://www.facebook.com/pavlenkoillai#gh-light-mode-only)
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/facebook.svg" />](https://www.facebook.com/pavlenkoillai#gh-dark-mode-only)
+[<img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/3670/3670032.png" />](https://www.facebook.com/pavlenkoillai#gh-light-mode-only)
+[<img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/3670/3670032.png" />](https://www.facebook.com/pavlenkoillai#gh-dark-mode-only)
 &nbsp;&nbsp;
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" />](https://twitter.com/IlliaPavlenko#gh-light-mode-only)
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" />](https://twitter.com/IlliaPavlenko#gh-dark-mode-only)
@@ -32,13 +32,13 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" >
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/github.svg" style="padding-right:10px;" >
-<img align="left" alt="WebdriverIO" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/webdriverio.svg" style="padding-right:10px;" >
-<img align="left" alt="Playwright" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/playwright.svg" style="padding-right:10px;" >
-<img align="left" alt="Cypress" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/cypress.svg" style="padding-right:10px;" >
+<img align="left" alt="WebdriverIO" width="26px" src="https://raw.githubusercontent.com/webdriverio/webdriverio-schematics/HEAD/.github/assets/logo.png" style="padding-right:10px;" >
+<img align="left" alt="Playwright" width="26px" src="https://playwright.dev/img/playwright-logo.svg" style="padding-right:10px;" >
+<img align="left" alt="Cypress" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/a6526a9b865babf8d661779a5d1fff67672fce89/icons/file_type_cypress.svg" style="padding-right:10px;" >
 <img align="left" alt="Cucumber" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/cucumber.svg" style="padding-right:10px;" >
 <img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/docker.svg" style="padding-right:10px;" >
 <img align="left" alt="dotnet" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/dotnet.svg" style="padding-right:10px;" >
-<img align="left" alt="Postman" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/postman.svg" style="padding-right:10px;" >
+<img align="left" alt="Postman" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" style="padding-right:10px;" >
 <img align="left" alt="GitHubActions" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/githubactions.svg" style="padding-right:10px;" >
 
 <br />
