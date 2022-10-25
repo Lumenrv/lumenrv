@@ -30,7 +30,7 @@
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" >
+<img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" style="padding-right:10px;" >
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/github.svg" style="padding-right:10px;" >
 <img align="left" alt="WebdriverIO" width="26px" src="https://raw.githubusercontent.com/webdriverio/webdriverio-schematics/HEAD/.github/assets/logo.png" style="padding-right:10px;" >
 <img align="left" alt="Playwright" width="26px" src="https://playwright.dev/img/playwright-logo.svg" style="padding-right:10px;" >
@@ -39,7 +39,7 @@
 <img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/docker.svg" style="padding-right:10px;" >
 <img align="left" alt="dotnet" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/dotnet.svg" style="padding-right:10px;" >
 <img align="left" alt="Postman" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" style="padding-right:10px;" >
-<img align="left" alt="GitHubActions" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/githubactions.svg" style="padding-right:10px;" >
+<img align="left" alt="GitHubActions" width="26px" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" style="padding-right:10px;" >
 
 <br />
 <br />
