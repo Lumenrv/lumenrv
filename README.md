@@ -36,8 +36,8 @@
 <img align="left" alt="Playwright" width="26px" src="https://playwright.dev/img/playwright-logo.svg" style="padding-right:10px;" >
 <img align="left" alt="Cypress" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/a6526a9b865babf8d661779a5d1fff67672fce89/icons/file_type_cypress.svg" style="padding-right:10px;" >
 <img align="left" alt="Cucumber" width="26px" src="https://seeklogo.com/images/C/cucumber-logo-D727C551CE-seeklogo.com.png" style="padding-right:10px;" >
-<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/docker.svg" style="padding-right:10px;" >
-<img align="left" alt="dotnet" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/dotnet.svg" style="padding-right:10px;" >
+<img align="left" alt="Docker" width="26px" src="https://www.svgrepo.com/show/331370/docker.svg" style="padding-right:10px;" >
+<img align="left" alt="dotnet" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" style="padding-right:10px;" >
 <img align="left" alt="Postman" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" style="padding-right:10px;" >
 <img align="left" alt="GitHubActions" width="26px" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" style="padding-right:10px;" >
 
