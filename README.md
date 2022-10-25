@@ -16,8 +16,8 @@
 [<img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/1377/1377213.png" />](https://www.linkedin.com/in/illia-pavlenko-42313a178/#gh-light-mode-only)
 [<img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/1377/1377213.png" />](https://www.linkedin.com/in/illia-pavlenko-42313a178/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg" />](https://www.instagram.com/illai_13/#gh-light-mode-only)
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg" />](https://www.instagram.com/illai_13/#gh-dark-mode-only)
+[<img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />](https://www.instagram.com/illai_13/#gh-light-mode-only)
+[<img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />](https://www.instagram.com/illai_13/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [<img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/3670/3670032.png" />](https://www.facebook.com/pavlenkoillai#gh-light-mode-only)
 [<img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/3670/3670032.png" />](https://www.facebook.com/pavlenkoillai#gh-dark-mode-only)
