@@ -6,7 +6,7 @@
 - 👯 I’m open for a new projects
 - 🥅 2022 Goals: STUDY STUDY STUDY
 - ⚡ Fun fact: I got married recently
-<a href="https://cdnlogo.com/logo/twitter-icon_498.html"><img src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg"></a>
+
 
 ### Connect with me:
 
