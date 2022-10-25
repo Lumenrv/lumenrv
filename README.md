@@ -6,7 +6,7 @@
 - 👯 I’m open for a new projects
 - 🥅 2022 Goals: STUDY STUDY STUDY
 - ⚡ Fun fact: I got married recently
-
+<a href="https://cdnlogo.com/logo/twitter-icon_498.html"><img src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg"></a>
 
 ### Connect with me:
 
@@ -22,8 +22,8 @@
 [<img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/3670/3670032.png" />](https://www.facebook.com/pavlenkoillai#gh-light-mode-only)
 [<img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/3670/3670032.png" />](https://www.facebook.com/pavlenkoillai#gh-dark-mode-only)
 &nbsp;&nbsp;
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" />](https://twitter.com/IlliaPavlenko#gh-light-mode-only)
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" />](https://twitter.com/IlliaPavlenko#gh-dark-mode-only)
+[<img height="32" width="32" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" />](https://twitter.com/IlliaPavlenko#gh-light-mode-only)
+[<img height="32" width="32" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" />](https://twitter.com/IlliaPavlenko#gh-dark-mode-only)
 
 
 ### Languages and Tools:
