@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m open for a new projects
-- 🥅 2023 Goals: Continue, whatever it takes
+- 🥅 2024 Goals: Continue, whatever it takes
 - ⚡ Fun fact: I got married recently
 
 
